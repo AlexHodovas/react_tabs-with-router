@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_tabs-with-router/static/css/main.5edb1af9.chunk.css",
+    "main.js": "/react_tabs-with-router/static/js/main.3a8a1da6.chunk.js",
+    "main.js.map": "/react_tabs-with-router/static/js/main.3a8a1da6.chunk.js.map",
+    "runtime~main.js": "/react_tabs-with-router/static/js/runtime~main.5858125e.js",
+    "runtime~main.js.map": "/react_tabs-with-router/static/js/runtime~main.5858125e.js.map",
+    "static/js/2.b066fd00.chunk.js": "/react_tabs-with-router/static/js/2.b066fd00.chunk.js",
+    "static/js/2.b066fd00.chunk.js.map": "/react_tabs-with-router/static/js/2.b066fd00.chunk.js.map",
+    "index.html": "/react_tabs-with-router/index.html",
+    "precache-manifest.7b59663363fafb8bf7f18dabd1cb37d3.js": "/react_tabs-with-router/precache-manifest.7b59663363fafb8bf7f18dabd1cb37d3.js",
+    "service-worker.js": "/react_tabs-with-router/service-worker.js",
+    "static/css/main.5edb1af9.chunk.css.map": "/react_tabs-with-router/static/css/main.5edb1af9.chunk.css.map"
+  }
+}
